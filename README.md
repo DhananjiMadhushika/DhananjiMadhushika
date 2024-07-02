@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananji Madhushika</h1>
-<h3 align="center">Computer Engineering Undergraduate</h3>
+<h3 align="center">BSc. (Hons) Computer Engineering - Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjimadhushika&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjimadhushika" /> </p>
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjimadhushika&show_icons=true&locale=en" alt="dhananjimadhushika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjimadhushika&" alt="dhananjimadhushika" /></p>
+
+[![Dhananji Madhushika's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhananjimadhushika&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

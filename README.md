@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjimadhushika&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjimadhushika" /> </p>
 
-- 🌱 I’m currently learning **Angular, NextJs**
 
 - 👨‍💻 All of my projects are available at [https://lnkd.in/eY6hfMts](https://lnkd.in/eY6hfMts)
 
@@ -67,10 +66,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjimadhushika&show_icons=true&locale=en&layout=compact" alt="dhananjimadhushika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjimadhushika&show_icons=true&locale=en" alt="dhananjimadhushika" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjimadhushika&" alt="dhananjimadhushika" /></p>
+
 
 

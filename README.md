@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjimadhushika&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjimadhushika" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://lnkd.in/eY6hfMts](https://lnkd.in/eY6hfMts)
+- 👨‍💻 All of my projects are available at [https://lnkd.in/eY6hfMts]([https://lnkd.in/eY6hfMts](https://dhananjimadhushika.github.io/My-Portfolio/))
 
 - 💬 Ask me about **MERN**
 

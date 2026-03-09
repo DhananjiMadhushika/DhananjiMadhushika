@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=DhananjiMadhushika&label=Profile%20views&color=0e75b6&style=flat" alt="DhananjiMadhushika" />
 </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://dhananjimadhushika.github.io/My-Portfolio/](https://dhananji-madhushika.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://dhananji-madhushika.vercel.app/)
 
 - 📫 How to reach me **dhananjimadushika72@gmail.com**
 
